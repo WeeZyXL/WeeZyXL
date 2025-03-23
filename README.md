@@ -1,3 +1,10 @@
+<h1> "🚀 Hey there!</h1>
+
+<h1> I'm Wesley </h1>
+
+<h2>a 25-year-old code explorer on a mission to turn curiosity into innovation. Currently diving deep into software development, crafting projects, and sharpening my skills. Looking for my place in the tech universe—let’s build something awesome together! 💻✨</h2>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeeZYXL/WeeZYXL/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WeeZYXL/WeeZYXL/output/pacman-contribution-graph.svg">
